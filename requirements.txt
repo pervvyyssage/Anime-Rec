@@ -1,0 +1,19 @@
+# Backend API
+flask
+flask-cors
+python-dotenv
+gunicorn
+
+# Data & ML dependencies
+pandas
+numpy
+sentence-transformers
+scikit-learn
+faiss-cpu
+
+# Scraping dependencies
+httpx
+beautifulsoup4
+lxml
+tqdm
+tenacity
